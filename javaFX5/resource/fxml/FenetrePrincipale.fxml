@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.FlowPane?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<BorderPane
+        xmlns="http://javafx.com/javafx/11.0.1"
+        xmlns:fx="http://javafx.com/fxml/1"
+        fx:controller="view.FenetrePrincipale">
+
+    <left>
+        <FlowPane prefWidth="200" prefHeight="200" orientation="VERTICAL" alignment="TOP_CENTER">
+            <Label text="Lapin :" />
+            <TextField fx:id="textFieldNomLapin" />
+            <Button text="sauvegarder" onAction="#sauvegarder" />
+            <Label fx:id="messageErreur" />
+        </FlowPane>
+    </left>
+
+    <center>
+        <FlowPane prefWidth="200" prefHeight="200" orientation="VERTICAL">
+            <Label text="Lapin" />
+            <Label fx:id="labelNomLapin" />
+        </FlowPane>
+    </center>
+
+    <right>
+        <FlowPane prefWidth="200" prefHeight="200" orientation="VERTICAL">
+            <Label text="Recuperer le model" />
+            <Button text="Recuperer Lapin" onAction="#recuperer" />
+            <Label fx:id="labelNomLapinRecupere" />
+        </FlowPane>
+    </right>
+
+</BorderPane>

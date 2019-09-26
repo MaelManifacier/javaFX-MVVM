@@ -1,0 +1,33 @@
+ #bouton {
+    -fx-background-color: #669999;
+    -fx-text-fill: white;
+    -fx-background-radius: 0%;
+ }
+
+ #bouton:hover {
+    -fx-text-fill: white;
+    -fx-background-color: #487742;
+ }
+
+#liste {
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+}
+
+#borderPane {
+    -fx-padding: 10;
+    -fx-background-color: #071019;
+}
+
+#titre {
+    -fx-fill: white;
+    -fx-font-size: 20;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.texte {
+    -fx-text-fill: white;
+}
