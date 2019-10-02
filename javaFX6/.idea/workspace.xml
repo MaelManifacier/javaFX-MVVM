@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27982bfe-5532-49db-a466-55c552f7e684" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../javaFX4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaFX4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaFX5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaFX5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaFX5/Lapin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../javaFX5/Lapin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaFX5/out/production/javaFX5/META-INF/javaFX5.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="50009f61-c52f-477f-80d0-62bcf159ee36" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +16,9 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1R5omEiaDtKid0CCt9UUZol0PgR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1RYrRwy2j5gBlvERchDFuq1qWCk" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/usr/share/openjfx/lib/src.zip!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,7 +38,7 @@
   <component name="RunManager">
     <configuration name="Launch" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="launch.Launch" />
-      <module name="javaFX3" />
+      <module name="javaFX6" />
       <option name="VM_PARAMETERS" value="--module-path /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,28 +50,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27982bfe-5532-49db-a466-55c552f7e684" name="Default Changelist" comment="" />
-      <created>1568966474288</created>
+      <changelist id="50009f61-c52f-477f-80d0-62bcf159ee36" name="Default Changelist" comment="" />
+      <created>1569854866160</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568966474288</updated>
+      <updated>1569854866160</updated>
     </task>
     <servers />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
