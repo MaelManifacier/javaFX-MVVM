@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            prefHeight="400.0" prefWidth="600.0">
+
+    <left>
+        <BorderPane>
+            <center>
+                <ListView fx:id="listeSouris" />
+            </center>
+
+            <bottom>
+                <Button text="Ajouter Souris" onAction="#ajouterSouris" />
+            </bottom>
+        </BorderPane>
+    </left>
+
+    <center>
+        <Label fx:id="nomSouris" />
+    </center>
+
+    <right>
+        <TextField fx:id="changerNomSouris" />
+    </right>
+
+</BorderPane>
